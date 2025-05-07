@@ -1,0 +1,11 @@
+.cmblack{
+    background-color: rgb(12, 11, 11);
+    color: white;
+}
+.cmyellow{
+    background-color: rgb(185, 185, 0);
+}
+.cmblack, .cmyellow{
+    font-size: 45px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
