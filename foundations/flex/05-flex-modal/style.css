@@ -28,6 +28,9 @@ body {
 .header{
   display: flex;
   justify-content: space-between;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 12px;
 }
 
 .icon {
