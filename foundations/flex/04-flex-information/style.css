@@ -12,6 +12,15 @@ img {
   font-weight: 900;
 }
 
+.plants{
+  display: flex;
+}
+
+.cards{
+  display: flex;
+  flex-direction: column;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
