@@ -49,17 +49,13 @@ a{
   gap: 12px;
 }
 
-.header{
+.header,
+footer{
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  margin-bottom: auto;
 }
 
 .footer{
-  display: flex;
-  margin-top: auto;
-  justify-content: space-between;
-  padding: 8px;
   background-color: #eeeeee;
 }
